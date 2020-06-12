@@ -1,2 +1,3 @@
 # ANTLR-Lexical-Analyzer-Fallback-DFA
-an ANTLR lexical analyzer for a variant of the fallback DFA
+CSEN1002 Compilers Lab, Spring Term 2020
+Task 4: ANTLR Lexical Analysis
